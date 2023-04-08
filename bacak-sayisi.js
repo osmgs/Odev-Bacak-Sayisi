@@ -7,7 +7,7 @@
     domuz : 4
   };
 
-  const hayvanlar = ["inek", "tavuk", "koyun", "domuz"];
+  const hayvanlar = ["inek", "inek", "tavuk", "tavuk", "tavuk", "koyun", "koyun", "domuz", "domuz"];
 
   let toplamAyakSayisi = 0;
   for (let i = 0; i < hayvanlar.length; i++) {
